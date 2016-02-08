@@ -37,3 +37,10 @@
 
 # 範例
 
+# 可參考文件
+
+[Rolling Your Own CDN – Build A 3 Continent CDN For $25 In 1 Hour](https://www.scalescale.com/rolling-your-own-cdn-build-a-3-continent-cdn-for-25-in-1-hour/)
+
+[Setup a self-hosted CDN to speedup WordPress](http://www.htpcbeginner.com/setup-self-hosted-cdn-speedup-wordpress/)
+
+[Creating your own CDN with Nginx](http://idiallo.com/blog/creating-your-own-cdn-with-nginx)
