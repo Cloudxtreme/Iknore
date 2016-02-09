@@ -46,3 +46,7 @@
 [Setup a self-hosted CDN to speedup WordPress](http://www.htpcbeginner.com/setup-self-hosted-cdn-speedup-wordpress/)
 
 [Creating your own CDN with Nginx](http://idiallo.com/blog/creating-your-own-cdn-with-nginx)
+
+[tpyo@amazon-s3-php-class](https://github.com/tpyo/amazon-s3-php-class)
+
+[brandonsavage@Upload](https://github.com/brandonsavage/Upload)
