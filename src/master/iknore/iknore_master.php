@@ -22,7 +22,7 @@ class IknoreMaster
         if(!file_exists(self::$geoCookedPath))
             self::convertGeoDatabase();
         
-        if(!isset($_COOKIE[$countryCookie]))
+        if(!isset($_COOKIE[self::$countryCookie]))
             self::setCountry();
             
     }
@@ -33,7 +33,7 @@ class IknoreMaster
     {
         self::getCountryCode();
         
-        setcookie($countryCookie, self::currentCountry, time() + 3600);
+        setcookie(self::$countryCookie, self::$currentCountry, time() + 3600);
     }
     
     
